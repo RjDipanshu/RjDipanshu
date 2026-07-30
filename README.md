@@ -1,20 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Dipanshu+Raj;Software+Engineer;Java+Developer;Spring+Boot+Developer;AI+Builder;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+🚀"/>
-</h1>
+## 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RjDipanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RjDipanshu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+</p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/AI-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github"/>
+<img src="https://streak-stats.demolab.com?user=RjDipanshu&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -22,21 +18,21 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM INFORMATION                          ║
+║                         SYSTEM INFORMATION                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║ User        :: Dipanshu Raj                                         ║
-║ Role        :: Software Engineer                                    ║
-║ Status      :: Building Intelligent Applications                    ║
-║ OS          :: Windows 11                                           ║
-║ IDE         :: IntelliJ IDEA / VS Code                              ║
-║ Backend     :: Spring Boot • REST APIs • JWT                        ║
-║ Frontend    :: React • Flutter                                      ║
-║ Database    :: MySQL • PostgreSQL                                   ║
-║ AI Stack    :: LangChain • Gemini API • Streamlit                   ║
-║ Cloud       :: AWS (Learning)                                       ║
-║ Tools       :: Git • GitHub • Maven                                 ║
-║ Current     :: HireHub AI                                           ║
-║ Location    :: Bhopal, India                                     ║
+║ User        :: Dipanshu Raj                                          ║
+║ Role        :: Software Engineer                                     ║
+║ Status      :: Building Intelligent Applications                     ║
+║ OS          :: Windows 11                                            ║
+║ IDE         :: IntelliJ IDEA / VS Code                               ║
+║ Backend     :: Spring Boot • REST APIs • JWT                         ║
+║ Frontend    :: React • Flutter                                       ║
+║ Database    :: MySQL • PostgreSQL                                    ║
+║ AI Stack    :: LangChain • Gemini API • Streamlit                    ║
+║ Cloud       :: AWS (Learning)                                        ║
+║ Tools       :: Git • GitHub • Maven                                  ║
+║ Current     :: HireHub AI                                            ║
+║ Location    :: Bhopal, India                                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 CPU............. ██████████ 100%
