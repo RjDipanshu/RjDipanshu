@@ -76,11 +76,11 @@ class DipanshuRaj {
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RjDipanshu&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RjDipanshu&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -176,12 +176,11 @@ Conversational AI assistant powered by LangChain and Gemini.
 </table>
 
 ---
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RjDipanshu&theme=algolia&no-frame=true&row=2&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RjDipanshu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -223,11 +222,11 @@ Conversational AI assistant powered by LangChain and Gemini.
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RjDipanshu&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=RjDipanshu&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
