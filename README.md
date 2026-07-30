@@ -1,6 +1,8 @@
-```text
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Dipanshu+Raj+Software+Engineer+%7C+AI+Builder+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Full+Stack+Developer+Building+Intelligent+Applications+with+AI+Open+Source+Learner+%7C+Problem+Solver+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Dipanshu+Raj;Software+Engineer+%7C+AI+Builder;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Full+Stack+Developer;Building+Intelligent+Applications+with+AI;Open+Source+Learner+%7C+Problem+Solver+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+```text
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -107,12 +109,10 @@ GitHub.......... github.com/RjDipanshu
 
 LinkedIn........ linkedin.com/in/dipanshu-raj-1398572bb
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RjDipanshu&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ```markdown
+
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RjDipanshu&show_icons=true&theme=tokyonight)
@@ -120,6 +120,12 @@ LinkedIn........ linkedin.com/in/dipanshu-raj-1398572bb
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RjDipanshu&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RjDipanshu&theme=tokyonight)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RjDipanshu&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 👀 Visitors
